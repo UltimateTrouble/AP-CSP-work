@@ -1,16 +1,11 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>
-            Hello this is a test
-        </title>
-    </head>
-    <body>
-        <h1> Welcome to the site
-        </h1>
-        <p> This is a paragraph
-        </p>
-        <p> this is another paragraph
-        </p>
-    </body>
+<head>
+<title> Hello this is a test </title>
+</head>
+<body>
+<h1> Welcome to the site </h1>
+<p> This is a paragraph </p>
+<p> this is another paragraph </p>
+</body>
 </html>
